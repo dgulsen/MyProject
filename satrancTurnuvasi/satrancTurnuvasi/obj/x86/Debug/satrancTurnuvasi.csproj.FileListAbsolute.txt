@@ -1,0 +1,17 @@
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\bin\Debug\satrancTurnuvasi.exe
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\bin\Debug\satrancTurnuvasi.pdb
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.frmSatranc.resources
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.Properties.Resources.resources
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.exe
+D:\Selçuk Şimşek\tl 11a\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.pdb
+E:\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.exe
+E:\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.pdb
+C:\Users\Devran\Desktop\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.exe
+C:\Users\Devran\Desktop\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.pdb
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.exe
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.pdb
+C:\Users\hp\Desktop\Yeni klasör\Programlar\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.exe
+C:\Users\hp\Desktop\Yeni klasör\Programlar\04.11.2013\satrancTurnuvasi\satrancTurnuvasi\obj\x86\Debug\satrancTurnuvasi.pdb
