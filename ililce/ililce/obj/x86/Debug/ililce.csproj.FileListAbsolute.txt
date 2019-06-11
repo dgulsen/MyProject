@@ -1,0 +1,18 @@
+E:\ililce\ililce\bin\Debug\ililce.exe
+E:\ililce\ililce\bin\Debug\ililce.pdb
+E:\ililce\ililce\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ililce\ililce\obj\x86\Debug\ililce.Form1.resources
+E:\ililce\ililce\obj\x86\Debug\ililce.Properties.Resources.resources
+E:\ililce\ililce\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ililce\ililce\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ililce\ililce\obj\x86\Debug\ililce.exe
+E:\ililce\ililce\obj\x86\Debug\ililce.pdb
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\ililce.exe
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\ililce.pdb
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\bin\Debug\ililce.exe
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\bin\Debug\ililce.pdb
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\ililce.Form1.resources
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\ililce.Properties.Resources.resources
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Windows Application (2013 - 2014)\WindowsFormsApplication II. Dönem Programlar\03.03.2014\ililce\ililce\obj\x86\Debug\GenerateResource.write.1.tlog
