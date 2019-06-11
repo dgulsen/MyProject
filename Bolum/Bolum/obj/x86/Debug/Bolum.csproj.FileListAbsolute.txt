@@ -1,0 +1,29 @@
+G:\01.10.2013\Bolum\Bolum\bin\Debug\Bolum.exe
+G:\01.10.2013\Bolum\Bolum\bin\Debug\Bolum.pdb
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.Form1.resources
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.Properties.Resources.resources
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.exe
+G:\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\Bolum.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\Bolum.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\bin\Debug\Bolum.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\bin\Debug\Bolum.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\Bolum.Form1.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\Bolum.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Bolum\Bolum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Devran\Desktop\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.exe
+C:\Users\Devran\Desktop\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.pdb
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.exe
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.pdb
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\bin\Debug\Bolum.exe
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\bin\Debug\Bolum.pdb
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.Form1.resources
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\Bolum.Properties.Resources.resources
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\01.10.2013\Bolum\Bolum\obj\x86\Debug\GenerateResource.write.1.tlog
