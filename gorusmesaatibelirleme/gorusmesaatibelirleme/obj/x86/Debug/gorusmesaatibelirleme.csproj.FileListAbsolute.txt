@@ -1,0 +1,13 @@
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\bin\Debug\gorusmesaatibelirleme.exe
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\bin\Debug\gorusmesaatibelirleme.pdb
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.Form1.resources
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.Properties.Resources.resources
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.exe
+D:\Selçuk Şimşek\tl 11a\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.pdb
+H:\WindowsFormsApplication I. Dönem Programlar\02.12.2013\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.exe
+H:\WindowsFormsApplication I. Dönem Programlar\02.12.2013\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.pdb
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\02.12.2013\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.exe
+C:\Users\Devran\Desktop\Documents\Visual Studio 2010\Projects\11\02.12.2013\gorusmesaatibelirleme\gorusmesaatibelirleme\obj\x86\Debug\gorusmesaatibelirleme.pdb
